@@ -1,0 +1,442 @@
+\begin{thebibliography}{10}
+
+\bibitem{OMG:QVT:2011}
+Meta object facility (mof) 2.0 query/view/ transformation specification, omg
+  document, January 2011.
+
+\bibitem{anjorin2011:emoflon}
+Anthony Anjorin, Marius Lauder, Sven Patzina, and Andy Sch{\"u}rr.
+\newblock emoflon: Leveraging emf and professional case tools.
+\newblock {\em Proc. of MEMWe}, 2011.
+
+\bibitem{DBLP:journals/eceasst/AnjorinOZS12}
+Anthony Anjorin, Sebastian Oster, Ivan Zorcic, and Andy Sch{\"u}rr.
+\newblock Optimizing model-based software product line testing with graph
+  transformations.
+\newblock {\em ECEASST}, 47, 2012.
+
+\bibitem{antkiewicz2008:DesigndSpace}
+Micha{\l} Antkiewicz and Krzysztof Czarnecki.
+\newblock Design space of heterogeneous synchronization.
+\newblock In Ralf L{\"a}mmel, Joost Visser, and Jo{\~a}o Saraiva, editors, {\em
+  Generative and Transformational Techniques in Software Engineering II},
+  volume 5235 of {\em Lecture Notes in Computer Science}, pages 3--46. Springer
+  Berlin Heidelberg, 2008.
+
+\bibitem{Awodey:CATBook:2009fv}
+Steve Awodey.
+\newblock {\em Category Theory}.
+\newblock Oxford University Press, 2009.
+
+\bibitem{Balogh:2006:Viatra2}
+Andr\'{a}s Balogh and D\'{a}niel Varr\'{o}.
+\newblock Advanced model transformation language constructs in the viatra2
+  framework.
+\newblock In {\em Proceedings of the 2006 ACM symposium on Applied computing},
+  SAC '06, pages 1280--1287, New York, NY, USA, 2006. ACM.
+
+\bibitem{Bancilhon:UpdateDB:1981kx}
+F.~Bancilhon and N.~Spyratos.
+\newblock Update semantics of relational views.
+\newblock {\em ACM Trans. Database Syst.}, 6(4):557--575, December 1981.
+
+\bibitem{Barr:CATBook:1999dz}
+Michael Barr and Charles Wells.
+\newblock {\em Category Theory for Computing Science}.
+\newblock Centre de Recherches Math\'ematiques, 1999.
+
+\bibitem{Berthold:2000vn}
+Michael~R Berthold, Ingrid Fischer, and Manuel Koch.
+\newblock Attributed graph transformation with partial attribution.
+\newblock In {\em Proceedings Joint APPLIGRAPH/GETGRATS Workshop on Graph
+  Transformation Systems}, pages 171--178, 2000.
+
+\bibitem{Bezivin:MDA:2004nx}
+Jean B\'{e}zivin.
+\newblock {In Search of a Basic Principle for Model Driven Engineering}.
+\newblock {\em UPGRADE -- The European Journal for the Informatics
+  Professional}, 5(2):21--24, 2004.
+
+\bibitem{Bohannon:2008:Boomerang}
+Aaron Bohannon, J.~Nathan Foster, Benjamin~C. Pierce, Alexandre Pilkiewicz, and
+  Alan Schmitt.
+\newblock Boomerang: resourceful lenses for string data.
+\newblock {\em SIGPLAN Not.}, 43(1):407--419, January 2008.
+
+\bibitem{Brambilla:MDE:2012dq}
+Marco Brambilla, Jordi Cabot, and Manuel Wimmer.
+\newblock {\em Model-Driven Software Engineering in Practice}.
+\newblock Synthesis Lectures on Software Engineering. Morgan {\&} Claypool
+  Publishers, 2012.
+
+\bibitem{Briand:UMLChangeMng:2013cr}
+L.C. Briand, Y.~Labiche, and L.~O''Sullivan.
+\newblock Impact analysis and change management of uml models.
+\newblock In {\em Software Maintenance, 2003. ICSM 2003. Proceedings.
+  International Conference on}, pages 256--265, Sept.
+
+\bibitem{buneman2000:UnQL}
+Peter Buneman, Mary Fernandez, and Dan Suciu.
+\newblock Unql: a query language and algebra for semistructured data based on
+  structural recursion.
+\newblock {\em The VLDB Journal---The International Journal on Very Large Data
+  Bases}, 9(1):76--110, 2000.
+
+\bibitem{Czarnecki:BX:2009tg}
+Krzysztof Czarnecki, J.~Nathan Foster, Zhenjiang Hu, Ralf L\"{a}mmel, Andy
+  Sch\"{u}rr, and James~F. Terwilliger.
+\newblock Bidirectional transformations: A cross-discipline perspective.
+\newblock In {\em Proceedings of the 2nd International Conference on Theory and
+  Practice of Model Transformations}, ICMT '09, pages 260--283, Berlin,
+  Heidelberg, 2009. Springer-Verlag.
+
+\bibitem{atom3:Lara:2002qf}
+J.~de~Lara and H.~Vangheluwe.
+\newblock {AT}o{M}$^3$: {A} tool for multi-formalism and meta-modelling.
+\newblock In Ralf-Detlef Kutsche and Herbert Weber, editors, {\em FASE}, volume
+  2306, pages 174--188. Springer, 2002.
+\newblock
+  http://link.springer.de/link/service/series/0558/bibs/2306/23060174.htm.
+
+\bibitem{Zinovy:2008:AlgForSynch}
+Zinovy Diskin.
+\newblock Algebraic models for bidirectional model synchronization.
+\newblock In {\em Proceedings of the 11th international conference on Model
+  Driven Engineering Languages and Systems}, MoDELS '08, pages 21--36, Berlin,
+  Heidelberg, 2008. Springer-Verlag.
+
+\bibitem{Zinovy:2013:OCC:Symmet}
+Zinovy Diskin, Arif Wider, Hamid Gholizadeh, and Krzysztof Czarnecki.
+\newblock Symmetrization of model transformations: Towards a rational taxonomy
+  of model synchronization types.
+\newblock In {\em Submitted to the 16th International Conference on Model
+  Driven Engineering Languages and Systems, Miami, Florida, USA}, MODELS '13,
+  2013.
+
+\bibitem{Diskin:AsymmDelta:2011}
+Zinovy Diskin, Yingfei Xiong, and Krzysztof Czarnecki.
+\newblock From state- to delta-based bidirectional model transformations: the
+  asymmetric case.
+\newblock {\em Journal of Object Technology}, 10:6: 1--25, 2011.
+
+\bibitem{Diskin:DeltaSymm2011kl}
+Zinovy Diskin, Yingfei Xiong, Krzysztof Czarnecki, Hartmut Ehrig, Frank
+  Hermann, and Fernando Orejas.
+\newblock From state- to delta-based bidirectional model transformations: the
+  symmetric case.
+\newblock In {\em Proceedings of the 14th international conference on Model
+  driven engineering languages and systems}, MODELS'11, pages 304--318, Berlin,
+  Heidelberg, 2011. Springer-Verlag.
+
+\bibitem{Ehrig:2006:OverviewOfFormalConcept}
+Hartmut Ehrig and Karsten Ehrig.
+\newblock Overview of formal concepts for model transformations based on typed
+  attributed graph transformation.
+\newblock {\em Electron. Notes Theor. Comput. Sci.}, 152:3--22, March 2006.
+
+\bibitem{Ehrig:2007:IPB:TGGFromalDef}
+Hartmut Ehrig, Karsten Ehrig, Claudia Ermel, Frank Hermann, and Gabriele
+  Taentzer.
+\newblock Information preserving bidirectional model transformations.
+\newblock In {\em Proceedings of the 10th international conference on
+  Fundamental approaches to software engineering}, FASE'07, pages 72--86,
+  Berlin, Heidelberg, 2007. Springer-Verlag.
+
+\bibitem{book:Ehrig2010}
+Hartmut Ehrig, Karsten Ehrig, Ulrike Prange, and Gabriele Taentzer.
+\newblock {\em Fundamentals of Algebraic Graph Transformation}.
+\newblock Springer Publishing Company, Incorporated, 1st edition, 2010.
+
+\bibitem{Ehrig:2008:RMT:OnTheRel}
+Hartmut Ehrig, Claudia Ermel, and Frank Hermann.
+\newblock On the relationship of model transformations based on triple and
+  plain graph grammars.
+\newblock In {\em Proceedings of the third international workshop on Graph and
+  model transformations}, GRaMoT '08, pages 9--16, New York, NY, USA, 2008.
+  ACM.
+
+\bibitem{Ehrig:2009:OCC:OnTheFly}
+Hartmut Ehrig, Claudia Ermel, Frank Hermann, and Ulrike Prange.
+\newblock On-the-fly construction, correctness and completeness of model
+  transformations based on triple graph grammars.
+\newblock In {\em Proceedings of the 12th International Conference on Model
+  Driven Engineering Languages and Systems}, MODELS '09, pages 241--255,
+  Berlin, Heidelberg, 2009. Springer-Verlag.
+
+\bibitem{Ehrig:2004:ATGFundemental}
+Hartmut Ehrig, Ulrike Prange, and Gabriele Taentzer.
+\newblock Fundamental theory for typed attributed graph transformation.
+\newblock In Hartmut Ehrig, Gregor Engels, Francesco Parisi-Presicce, and
+  Grzegorz Rozenberg, editors, {\em Graph Transformations}, volume 3256 of {\em
+  Lecture Notes in Computer Science}, pages 161--177. Springer Berlin
+  Heidelberg, 2004.
+
+\bibitem{Ehrig:2004:FundementalATG}
+Hartmut Ehrig, Ulrike Prange, and Gabriele Taentzer.
+\newblock Fundamental theory for typed attributed graph transformation.
+\newblock In Hartmut Ehrig, Gregor Engels, Francesco Parisi-Presicce, and
+  Grzegorz Rozenberg, editors, {\em Graph Transformations}, volume 3256 of {\em
+  Lecture Notes in Computer Science}, pages 161--177. Springer Berlin
+  Heidelberg, 2004.
+
+\bibitem{Ehrig:2004fk}
+Hartmut Ehrig, Ulrike Prange, and Gabriele Taentzer.
+\newblock Fundamental theory for typed attributed graph transformation.
+\newblock In Hartmut Ehrig, Gregor Engels, Francesco Parisi-Presicce, and
+  Grzegorz Rozenberg, editors, {\em Graph Transformations}, volume 3256 of {\em
+  Lecture Notes in Computer Science}, pages 161--177. Springer Berlin
+  Heidelberg, 2004.
+
+\bibitem{:2010ve}
+Gregor Engels, Claus Lewerentz, Wilhelm Sch{\"a}fer, Andy Sch{\"u}rr, and
+  Bernhard Westfechtel, editors.
+\newblock {\em Graph Transformations and Model-Driven Engineering - Essays
+  Dedicated to Manfred Nagl on the Occasion of his 65th Birthday}, volume 5765
+  of {\em Lecture Notes in Computer Science}. Springer, 2010.
+
+\bibitem{Fischer:SDM:2000ys}
+Thorsten Fischer, J\"{o}rg Niere, Lars Torunski, and Albert Z\"{u}ndorf.
+\newblock Story diagrams: A new graph rewrite language based on the unified
+  modeling language and java.
+\newblock In {\em Selected papers from the 6th International Workshop on Theory
+  and Application of Graph Transformations}, TAGT'98, pages 296--309, London,
+  UK, UK, 2000. Springer-Verlag.
+
+\bibitem{Foster:LensCombinators:2005tg}
+J.~Nathan Foster, Michael~B. Greenwald, Jonathan~T. Moore, Benjamin~C. Pierce,
+  and Alan Schmitt.
+\newblock Combinators for bi-directional tree transformations: a linguistic
+  approach to the view update problem.
+\newblock {\em SIGPLAN Not.}, 40(1):233--246, January 2005.
+
+\bibitem{KM3:2006ve}
+{Fr\'ederic Jouault, Jean Bez\'ivin}.
+\newblock {KM3: a DSL for Metamodel Specification}.
+\newblock In {\em {Proceedings of 8th IFIP International Conference on Formal
+  Methods for Open Object-Based Distributed Systems}}, {LNCS}, pages
+  {171--185}, {Bologna, Italy}, {2006}.
+
+\bibitem{fujaba:website}
+{Fujaba Developer Team}.
+\newblock Fujaba-{H}omepage.
+\newblock http://www.fujaba.de/, 2007.
+
+\bibitem{giese2012:Bridging}
+Holger Giese, Stephan Hildebrandt, and Leen Lambers.
+\newblock Bridging the gap between formal semantics and implementation of
+  triple graph grammars.
+\newblock {\em Software and Systems Modeling}, pages 1--27, 2012.
+
+\bibitem{Giese:autosar:2009cr}
+Holger Giese, Stephan Hildebrandt, and Stefan Neumann.
+\newblock Towards integrating sysml and autosar modeling via bidirectional
+  model synchronization.
+\newblock In Giese et~al. \cite{DBLP:conf/mbees/2009}, pages 155--164.
+
+\bibitem{DBLP:conf/mbees/2009}
+Holger Giese, Michaela Huhn, Ulrich Nickel, and Bernhard Sch{\"a}tz, editors.
+\newblock {\em Dagstuhl-Workshop MBEES: Modellbasierte Entwicklung
+  eingebetteter Systeme V, Schloss Dagstuhl, Germany, 2009, Tagungsband
+  Modellbasierte Entwicklung eingebetteter Systeme}, volume 2009-01 of {\em
+  Informatik-Bericht}. TU Braunschweig, Institut f{\"u}r Software Systems
+  Engineering, 2009.
+
+\bibitem{giese2009:IncrementalSynch}
+Holger Giese and Robert Wagner.
+\newblock From model transformation to incremental bidirectional model
+  synchronization.
+\newblock {\em Software and Systems Modeling}, 8:21--43, 2009.
+
+\bibitem{TGGAppCondition:Golas:2011zr}
+Ulrike Golas, Hartmut Ehrig, and Frank Hermann.
+\newblock Formal specification of model transformations by triple graph
+  grammars with application conditions.
+\newblock {\em ECEASST}, 39, 2011.
+
+\bibitem{Golas:2012ly}
+Ulrike Golas, Leen Lambers, Hartmut Ehrig, and Holger Giese.
+\newblock Toward bridging the gap between formal foundations and current
+  practice for triple graph grammars - flexible relations between source and
+  target elements.
+\newblock In {\em ICGT}, pages 141--155, 2012.
+
+\bibitem{Golas:2012:TBG:TGGRecentFormalDef}
+Ulrike Golas, Leen Lambers, Hartmut Ehrig, and Holger Giese.
+\newblock Toward bridging the gap between formal foundations and current
+  practice for triple graph grammars: flexible relations between source and
+  target elements.
+\newblock In {\em Proceedings of the 6th international conference on Graph
+  Transformations}, ICGT'12, pages 141--155, Berlin, Heidelberg, 2012.
+  Springer-Verlag.
+
+\bibitem{TGG:Inheritance:Golas:2012ys}
+Ulrike Golas, Leen Lambers, Hartmut Ehrig, and Fernando Orejas.
+\newblock Attributed graph transformation with inheritance: Efficient conflict
+  detection and local confluence analysis using abstract critical pairs.
+\newblock {\em Theor. Comput. Sci.}, 424:46--68, 2012.
+
+\bibitem{greenyer2008:TGGInter}
+Joel Greenyer, Ekkart Kindler, Jan Rieke, and Oleg Travkin.
+\newblock Tggs for transforming uml to csp: Contribution to the agtive 2007
+  graph transformation tools contest.
+\newblock Technical report, Department of Computer Science, University of
+  Paderborn Paderborn, Germany, 2008.
+
+\bibitem{hermann2012:concurrent}
+Frank Hermann, Hartmut Ehrig, Claudia Ermel, and Fernando Orejas.
+\newblock Concurrent model synchronization with conflict resolution based on
+  triple graph grammars.
+\newblock In {\em Proceedings of the 15th international conference on
+  Fundamental Approaches to Software Engineering}, FASE'12, pages 178--193,
+  Berlin, Heidelberg, 2012. Springer-Verlag.
+
+\bibitem{Hermann:2010:FAF:FunctionalBeh}
+Frank Hermann, Hartmut Ehrig, Fernando Orejas, and Ulrike Golas.
+\newblock Formal analysis of functional behaviour for model transformations
+  based on triple graph grammars.
+\newblock In {\em Proceedings of the 5th international conference on Graph
+  transformations}, ICGT'10, pages 155--170, Berlin, Heidelberg, 2010.
+  Springer-Verlag.
+
+\bibitem{hidaka2011:Groundtram}
+Soichiro Hidaka, Zhenjiang Hu, Kazuhiro Inaba, Hiroyuki Kato, and Keisuke
+  Nakano.
+\newblock Groundtram: An integrated framework for developing well-behaved
+  bidirectional model transformations.
+\newblock In {\em Automated Software Engineering (ASE), 2011 26th IEEE/ACM
+  International Conference on}, pages 480--483. IEEE, 2011.
+
+\bibitem{Hofmann:2011:SymLens}
+Martin Hofmann, Benjamin Pierce, and Daniel Wagner.
+\newblock Symmetric lenses.
+\newblock In {\em Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium
+  on Principles of programming languages}, POPL '11, pages 371--384, New York,
+  NY, USA, 2011. ACM.
+
+\bibitem{ikv-technologies:mediniQVT}
+{ikv++ technologies}.
+\newblock {medini QVT} homepage.
+\newblock http://projects.ikv.de/qvt.
+
+\bibitem{Johnson08amast}
+M.~Johnson and R.~Rosebrugh.
+\newblock Constant complements, reversibility and universal view updates.
+\newblock In Meseguer and Rosu \cite{DBLP:conf/amast/2008}, pages 238--252.
+
+\bibitem{Johnson:2008kx}
+M.~Johnson and R.~Rosebrugh.
+\newblock Constant complements, reversibility and universal view updates.
+\newblock In Meseguer and Rosu \cite{DBLP:conf/amast/2008}, pages 238--252.
+
+\bibitem{Jouault:2008:ATL}
+Fr{\'e}d{\'e}ric Jouault, Freddy Allilaire, Jean B{\'e}zivin, and Ivan Kurtev.
+\newblock Atl: A model transformation tool.
+\newblock {\em Science of Computer Programming}, 72(1-2):31--39, June 2008.
+
+\bibitem{Keller:1987fk}
+A.~Keller.
+\newblock {Comments on Bancilhon and Spyratos' ``Update Semantics and
+  Relational Views''}.
+\newblock {\em ACM TODS}, 12(3):521--523, 1987.
+
+\bibitem{Kindler2007:TGGConcepts}
+Ekkart Kindler and Robert Wagner.
+\newblock Triple graph grammars: Concepts, extensions, implementations, and
+  application scenarios.
+\newblock Technical Report tr-ri-07-284, Software Engineering Group, Department
+  of Computer Science, University of Paderborn, June 2007.
+
+\bibitem{klassen2012:emorf}
+Lilija Klassen and Robert Wagner.
+\newblock Emorf-a tool for model transformations.
+\newblock {\em Electronic Communications of the EASST}, 54, 2012.
+
+\bibitem{Konigs:2006:TGGFormalDefSetBased}
+Alexander K\"{o}nigs and Andy Sch\"{u}rr.
+\newblock Tool integration with triple graph grammars - a survey.
+\newblock {\em Electron. Notes Theor. Comput. Sci.}, 148(1):113--150, February
+  2006.
+
+\bibitem{Lechtenborger:2003uq}
+Jens Lechtenb\"{o}rger.
+\newblock The impact of the constant complement approach towards view updating.
+\newblock In {\em Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART
+  symposium on Principles of database systems}, PODS '03, pages 49--55, New
+  York, NY, USA, 2003. ACM.
+
+\bibitem{DBLP:conf/amast/2008}
+Jos{\'e} Meseguer and Grigore Rosu, editors.
+\newblock {\em Algebraic Methodology and Software Technology, 12th
+  International Conference, AMAST 2008, Urbana, IL, USA, July 28-31, 2008,
+  Proceedings}, volume 5140 of {\em Lecture Notes in Computer Science}.
+  Springer, 2008.
+
+\bibitem{Patzina:ATLvsSDM:2012oq}
+Sven Patzina and Lars Patzina.
+\newblock A case study based comparison of atl and sdm.
+\newblock In Andy Sch{\"u}rr, D{\'a}niel Varr{\'o}, and Gergely Varr{\'o},
+  editors, {\em Applications of Graph Transformations with Industrial
+  Relevance}, volume 7233 of {\em Lecture Notes in Computer Science}, pages
+  210--221. Springer Berlin Heidelberg, 2012.
+
+\bibitem{book:Rozenberg1997}
+Grzegorz Rozenberg, editor.
+\newblock {\em Handbook of graph grammars and computing by graph
+  transformation: volume I. foundations}.
+\newblock World Scientific Publishing Co., Inc., River Edge, NJ, USA, 1997.
+
+\bibitem{Schurr:1995:TGGIntro}
+Andy Sch{\"u}rr.
+\newblock Specification of graph translators with triple graph grammars.
+\newblock In ErnstW. Mayr, Gunther Schmidt, and Gottfried Tinhofer, editors,
+  {\em Graph-Theoretic Concepts in Computer Science}, volume 903 of {\em
+  Lecture Notes in Computer Science}, pages 151--163. Springer Berlin
+  Heidelberg, 1995.
+
+\bibitem{Schurr:2008:15Years}
+Andy Sch\"{u}rr and Felix Klar.
+\newblock 15 years of triple graph grammars.
+\newblock In {\em Proceedings of the 4th international conference on Graph
+  Transformations}, ICGT '08, pages 411--425, Berlin, Heidelberg, 2008.
+  Springer-Verlag.
+
+\bibitem{Steinberg:EMFBook:2008qf}
+Dave Steinberg, Frank Budinsky, Marcelo Paternostro, and Ed~Merks.
+\newblock {\em {EMF:} Eclipse Modeling Framework}.
+\newblock {Addison-Wesley} Professional, second edition, December 2008.
+
+\bibitem{Steinberg:2009bh}
+David Steinberg, Frank Budinsky, Marcelo Paternostro, and Ed~Merks.
+\newblock {\em EMF: Eclipse Modeling Framework 2.0}.
+\newblock Addison-Wesley Professional, 2nd edition, 2009.
+
+\bibitem{Stevens:Landscape:2008kl}
+Perdita Stevens.
+\newblock A landscape of bidirectional model transformations.
+\newblock In {\em Generative and Transformational Techniques in Software
+  Engineering II}, pages 408--424. Springer, 2008.
+
+\bibitem{steven:QVT-Semantic2010}
+Perdita Stevens.
+\newblock Bidirectional model transformations in qvt: semantic issues and open
+  questions.
+\newblock {\em Software and Systems Modeling}, 9:7--20, 2010.
+\newblock 10.1007/s10270-008-0109-9.
+
+\bibitem{Taentzer:AGG:2000zr}
+Gabriele Taentzer.
+\newblock Agg: A tool environment for algebraic graph transformation.
+\newblock In Manfred Nagl, Andreas Sch{\"u}rr, and Manfred M{\"u}nch, editors,
+  {\em Applications of Graph Transformations with Industrial Relevance}, volume
+  1779 of {\em Lecture Notes in Computer Science}, pages 481--488. Springer
+  Berlin Heidelberg, 2000.
+
+\bibitem{EMF:2013ly}
+Eclipse modeling framework.
+\newblock Eclipse project Website.
+
+\bibitem{AGG:Website}
+{AGG} --- the attributed graph grammar system.
+\newblock http://user.cs.tu-berlin.de/~gragra/agg/index.html.
+
+\end{thebibliography}

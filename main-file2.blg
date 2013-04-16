@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main-file2.aux
+The style file: plain.bst
+Database file #1: ref-list.bib
+Warning--string name "lncs" is undefined
+--line 103 of file ref-list.bib
+Warning--entry type for "EMF:2013ly" isn't style-file defined
+--line 334 of file ref-list.bib
+Warning--string name "mar2013" is undefined
+--line 342 of file ref-list.bib
+Warning--entry type for "OMG:QVT:2011" isn't style-file defined
+--line 531 of file ref-list.bib
+A bad cross reference---entry "Golas:2012ly"
+refers to entry "DBLP:conf/gg/2012", which doesn't exist
+Warning--to sort, need author or key in OMG:QVT:2011
+You've used 67 entries,
+            2118 wiz_defined-function locations,
+            941 strings with 18769 characters,
+and the built_in function-call counts, 26036 in all, are:
+= -- 2623
+> -- 1198
+< -- 46
++ -- 462
+- -- 392
+* -- 1778
+:= -- 4079
+add.period$ -- 224
+call.type$ -- 67
+change.case$ -- 380
+chr.to.int$ -- 0
+cite$ -- 68
+duplicate$ -- 1089
+empty$ -- 2023
+format.name$ -- 399
+if$ -- 5732
+int.to.chr$ -- 0
+int.to.str$ -- 67
+missing$ -- 63
+newline$ -- 333
+num.names$ -- 151
+pop$ -- 425
+preamble$ -- 1
+purify$ -- 319
+quote$ -- 0
+skip$ -- 842
+stack$ -- 0
+substring$ -- 1523
+swap$ -- 367
+text.length$ -- 44
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 251
+warning$ -- 1
+while$ -- 240
+width$ -- 69
+write$ -- 780
+(There was 1 error message)

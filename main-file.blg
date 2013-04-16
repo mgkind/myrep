@@ -1,0 +1,132 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main-file.aux
+White space in argument---line 15 of file main-file.aux
+ : \citation{ICMT
+ :                Paper with Zinovy}
+I'm skipping whatever remains of this command
+White space in argument---line 60 of file main-file.aux
+ : \citation{some
+ :                CAT Theory or Adhesive High-Level Replacement Categories}
+I'm skipping whatever remains of this command
+White space in argument---line 62 of file main-file.aux
+ : \citation{other
+ :                 approach of Attributed typed graph}
+I'm skipping whatever remains of this command
+White space in argument---line 67 of file main-file.aux
+ : \citation{you
+ :               might want to put some ref like Atom3}
+I'm skipping whatever remains of this command
+White space in argument---line 69 of file main-file.aux
+ : \citation{and
+ :               some other tools}
+I'm skipping whatever remains of this command
+White space in argument---line 71 of file main-file.aux
+ : \citation{you
+ :               can cite some TGG application here!!}
+I'm skipping whatever remains of this command
+White space in argument---line 77 of file main-file.aux
+ : \citation{Put
+ :               kindler paper ref here}
+I'm skipping whatever remains of this command
+White space in argument---line 81 of file main-file.aux
+ : \citation{Giese
+ :                 tool applied}
+I'm skipping whatever remains of this command
+White space in argument---line 82 of file main-file.aux
+ : \citation{I
+ :             think he has a long paper describing this}
+I'm skipping whatever remains of this command
+White space in argument---line 87 of file main-file.aux
+ : \citation{cite
+ :                paper that compare Trans models and Reject TGG}
+I'm skipping whatever remains of this command
+White space in argument---line 88 of file main-file.aux
+ : \citation{try
+ :               to cite something related to constraint on TGG here}
+I'm skipping whatever remains of this command
+White space in argument---line 100 of file main-file.aux
+ : \citation{Zinovy
+ :                  Work}
+I'm skipping whatever remains of this command
+White space in argument---line 101 of file main-file.aux
+ : \citation{TGG
+ :               (Check it)}
+I'm skipping whatever remains of this command
+White space in argument---line 102 of file main-file.aux
+ : \citation{Xiong
+ :                 work }
+I'm skipping whatever remains of this command
+White space in argument---line 105 of file main-file.aux
+ : \citation{one
+ :               of TGG papers}
+I'm skipping whatever remains of this command
+White space in argument---line 108 of file main-file.aux
+ : \citation{cite
+ :                one of table view papers here}
+I'm skipping whatever remains of this command
+White space in argument---line 109 of file main-file.aux
+ : \citation{cite
+ :                a update policy paper here}
+I'm skipping whatever remains of this command
+White space in argument---line 134 of file main-file.aux
+ : \citation{Gies
+ :                paper in incremental Graph}
+I'm skipping whatever remains of this command
+The style file: plain.bst
+Database file #1: ref-list.bib
+Warning--entry type for "EMF:2013ly" isn't style-file defined
+--line 132 of file ref-list.bib
+Warning--string name "mar2013" is undefined
+--line 140 of file ref-list.bib
+Warning--entry type for "OMG:QVT:2011" isn't style-file defined
+--line 347 of file ref-list.bib
+A bad cross reference---entry "Golas:2012ly"
+refers to entry "DBLP:conf/gg/2012", which doesn't exist
+Warning--I didn't find a database entry for "AGG"
+Warning--I didn't find a database entry for "QVT-R"
+Warning--I didn't find a database entry for "Databasebook"
+Warning--I didn't find a database entry for "sddsd"
+Warning--to sort, need author or key in OMG:QVT:2011
+You've used 52 entries,
+            2118 wiz_defined-function locations,
+            857 strings with 15815 characters,
+and the built_in function-call counts, 20539 in all, are:
+= -- 2065
+> -- 963
+< -- 34
++ -- 370
+- -- 317
+* -- 1423
+:= -- 3240
+add.period$ -- 176
+call.type$ -- 52
+change.case$ -- 300
+chr.to.int$ -- 0
+cite$ -- 53
+duplicate$ -- 856
+empty$ -- 1592
+format.name$ -- 317
+if$ -- 4508
+int.to.chr$ -- 0
+int.to.str$ -- 52
+missing$ -- 52
+newline$ -- 260
+num.names$ -- 116
+pop$ -- 336
+preamble$ -- 1
+purify$ -- 252
+quote$ -- 0
+skip$ -- 640
+stack$ -- 0
+substring$ -- 1194
+swap$ -- 281
+text.length$ -- 34
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 193
+warning$ -- 1
+while$ -- 192
+width$ -- 54
+write$ -- 615
+(There were 19 error messages)

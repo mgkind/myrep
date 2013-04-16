@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  16 APR 2013 12:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  16 APR 2013 18:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -353,105 +353,106 @@ File: images/model-code.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/model-code.pdf used on input line 105.
 (pdftex.def)             Requested size: 142.26378pt x 102.03656pt.
  [2 <./images/model-code.pdf>] [3]
-<images/Example01.pdf, id=144, 522.0022pt x 202.46179pt>
+<images/Example01.pdf, id=147, 522.0022pt x 202.46179pt>
 File: images/Example01.pdf Graphic file (type pdf)
 
 <use images/Example01.pdf>
-Package pdftex.def Info: images/Example01.pdf used on input line 140.
+Package pdftex.def Info: images/Example01.pdf used on input line 146.
 (pdftex.def)             Requested size: 284.52756pt x 110.35338pt.
- [4 <./images/Example01.pdf>]
-<images/Example02.pdf, id=226, 564.04697pt x 199.87454pt>
+ [4]
+<images/Example02.pdf, id=153, 564.04697pt x 199.87454pt>
 File: images/Example02.pdf Graphic file (type pdf)
 
 <use images/Example02.pdf>
-Package pdftex.def Info: images/Example02.pdf used on input line 153.
+Package pdftex.def Info: images/Example02.pdf used on input line 159.
 (pdftex.def)             Requested size: 284.52756pt x 100.82451pt.
 
-<images/Example03.pdf, id=227, 609.32607pt x 197.93387pt>
+<images/Example03.pdf, id=154, 609.32607pt x 197.93387pt>
 File: images/Example03.pdf Graphic file (type pdf)
 
 <use images/Example03.pdf>
-Package pdftex.def Info: images/Example03.pdf used on input line 163.
+Package pdftex.def Info: images/Example03.pdf used on input line 169.
 (pdftex.def)             Requested size: 284.52756pt x 92.4279pt.
- [5 <./images/Example02.pdf> <./images/Example03.pdf>] <images/Example04.pdf, i
-d=381, 551.11015pt x 362.23212pt>
+ [5 <./images/Example01.pdf> <./images/Example02.pdf>] [6 <./images/Example03.p
+df>]
+<images/Example04.pdf, id=385, 551.11015pt x 362.23212pt>
 File: images/Example04.pdf Graphic file (type pdf)
 
 <use images/Example04.pdf>
-Package pdftex.def Info: images/Example04.pdf used on input line 179.
+Package pdftex.def Info: images/Example04.pdf used on input line 185.
 (pdftex.def)             Requested size: 284.52756pt x 187.01314pt.
- [6] [7 <./images/Example04.pdf>]
+ [7 <./images/Example04.pdf>]
 <images/Synchronization-types.pdf, id=499, 672.00015pt x 477.38893pt>
 File: images/Synchronization-types.pdf Graphic file (type pdf)
 
 <use images/Synchronization-types.pdf>
-Package pdftex.def Info: images/Synchronization-types.pdf used on input line 20
-9.
+Package pdftex.def Info: images/Synchronization-types.pdf used on input line 21
+5.
 (pdftex.def)             Requested size: 284.52756pt x 202.13367pt.
- [8 <./images/Synchronization-types.pdf>] [9] <images/Private-Shared-Table.pdf,
+ [8] [9 <./images/Synchronization-types.pdf>] <images/Private-Shared-Table.pdf,
  id=529, 498.06897pt x 139.7181pt>
 File: images/Private-Shared-Table.pdf Graphic file (type pdf)
 
 <use images/Private-Shared-Table.pdf>
-Package pdftex.def Info: images/Private-Shared-Table.pdf used on input line 261
+Package pdftex.def Info: images/Private-Shared-Table.pdf used on input line 267
 .
 (pdftex.def)             Requested size: 284.52756pt x 79.81494pt.
  [10 <./images/Private-Shared-Table.pdf>]
-[11] [12]
+[11] [12] [13]
 Missing character: There is no Ò in font cmbx10!
 Missing character: There is no Ó in font cmbx10!
- [13] [14]
-Overfull \hbox (57.9256pt too wide) in paragraph at lines 410--411
+ [14] [15]
+Overfull \hbox (57.9256pt too wide) in paragraph at lines 416--417
 []\OT1/cmr/bx/n/10.95 Definition 6. []\OT1/cmr/m/it/10.95 An \OT1/cmr/bx/it/10.
 95 E-graph G \OT1/cmr/m/it/10.95 is de-fined as $\OML/cmm/m/it/10.95 G \OT1/cmr
 /m/n/10.95 = (\OML/cmm/m/it/10.95 V[]; E[]; V[]; E[]; E[]; \OT1/cmr/m/n/10.95 (
 \OML/cmm/m/it/10.95 source[]$ $; target[]\OT1/cmr/m/n/10.95 )[]$ 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 412.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 418.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 412.
- [15] [16]
-<images/AGmorphism.png, id=601, 847.165pt x 503.8825pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 418.
+ [16]
+<images/AGmorphism.png, id=599, 847.165pt x 503.8825pt>
 File: images/AGmorphism.png Graphic file (type png)
 
 <use images/AGmorphism.png>
-Package pdftex.def Info: images/AGmorphism.png used on input line 452.
+Package pdftex.def Info: images/AGmorphism.png used on input line 458.
 (pdftex.def)             Requested size: 142.26378pt x 84.61324pt.
  [17 <./images/AGmorphism.png>]
 <images/TAG-morphism.pdf, id=605, 116.02838pt x 61.749pt>
 File: images/TAG-morphism.pdf Graphic file (type pdf)
 
 <use images/TAG-morphism.pdf>
-Package pdftex.def Info: images/TAG-morphism.pdf used on input line 513.
+Package pdftex.def Info: images/TAG-morphism.pdf used on input line 519.
 (pdftex.def)             Requested size: 142.26378pt x 75.719pt.
- [18 <./images/TAG-morphism.pdf>]
-<images/private-shared.pdf, id=682, 542.7013pt x 141.01183pt>
+ [18 <./images/TAG-morphism.pdf>] [19]
+<images/private-shared.pdf, id=686, 542.7013pt x 141.01183pt>
 File: images/private-shared.pdf Graphic file (type pdf)
 
 <use images/private-shared.pdf>
-Package pdftex.def Info: images/private-shared.pdf used on input line 538.
+Package pdftex.def Info: images/private-shared.pdf used on input line 544.
 (pdftex.def)             Requested size: 284.52756pt x 73.93118pt.
- [19 <./images/private-shared.pdf>] [20]
+ [20 <./images/private-shared.pdf>]
 <images/leastChange.pdf, id=721, 556.28488pt x 376.46268pt>
 File: images/leastChange.pdf Graphic file (type pdf)
 
 <use images/leastChange.pdf>
-Package pdftex.def Info: images/leastChange.pdf used on input line 551.
+Package pdftex.def Info: images/leastChange.pdf used on input line 557.
 (pdftex.def)             Requested size: 284.52756pt x 192.55061pt.
  [21 <./images/leastChange.pdf>]
 <images/conflictResolution.pdf, id=838, 407.51105pt x 272.96771pt>
 File: images/conflictResolution.pdf Graphic file (type pdf)
 
 <use images/conflictResolution.pdf>
-Package pdftex.def Info: images/conflictResolution.pdf used on input line 566.
+Package pdftex.def Info: images/conflictResolution.pdf used on input line 572.
 (pdftex.def)             Requested size: 199.16928pt x 133.41379pt.
- [22 <./images/conflictResolution.pdf>]
-[23] [24] [25] [26] (./main-file2.bbl [27]
+ [22] [23 <./images/conflictResolution.pdf>] [24] [25] [26] (./main-file2.bbl [
+27]
 Underfull \hbox (badness 10000) in paragraph at lines 94--100
 []\OT1/cmr/m/n/10.95 J. de Lara and H. Vangheluwe.  AToM$[]$: A tool for multi-
 
@@ -481,11 +482,11 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4805 strings out of 493488
  66761 string characters out of 3141326
- 150539 words of memory out of 3000000
+ 149539 words of memory out of 3000000
  7996 multiletter control sequences out of 15000+200000
  16892 words of font info for 63 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 38i,8n,58p,3038b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,58p,3038b,406s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
@@ -511,7 +512,7 @@ e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2012/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main-file2.pdf (32 pages, 1579577 bytes).
+Output written on main-file2.pdf (32 pages, 1580534 bytes).
 PDF statistics:
  1060 PDF objects out of 1200 (max. 8388607)
  725 compressed objects within 8 object streams

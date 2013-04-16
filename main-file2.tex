@@ -121,7 +121,25 @@ Change propagation among the models are also called {\em model synchronization},
 
 %This thesis proposal examines underlying formalities and existing works in the area of  {\em Model Synchronization} and identifying some gaps in current works and motivates how addressing those gaps is necessary in specification and implementation of formal synchronization framework, since it  would provide formal foundation for verifying the implemented synchronization framework. To be more specific we intend to address the formalities underlining the {\em Shared} and {\em Private} parts of the related models which matters in {\em Model Synchronization}. More detailed discussion on the problem is covered in section \ref{sec:Problem}. We will also discuss briefly some other  open problems, including {\em Concurrent Model Synchronization} and {\em Conflict Resolution} strategies $-$ which might  be an extended work of this research, that we observed during the survey on {\em Model Synchronization} area for future reference.
 
+connect synchronization to BX.
 
+
+\section {Incremental Synchronization}
+Suppose that we have two model spaces(sets of Models), A and B, and suppose relation R is defined among these two model spaces. we call every instance of A or B, a Model. i.e. $a \in A$ is called a Model; and suppose that model a and b are related by relation R, i.e $(a,b) \in R$. When model $a$ changes to $a'$ and $(a',b) not \in R$, we require to change $b$ to a $b'$ such that $a'$ and $b'$ are related again. Figure ....  shows this scenario.
+
+
+
+
+\subsection{String Lenses}
+
+\subsection{Assymetric vs Symmetric Lenses}
+
+\subsection{Delta-Lenses}
+
+\section {Problem definition}
+private/public part -- > more clarify the semantic of the private/public part and how to implement it.
+minimal change --> semantic clarification and its implementation in practice
+conflict resolution and its implementation.
 
 
 
